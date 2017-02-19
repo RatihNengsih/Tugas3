@@ -37,7 +37,7 @@ CREATE TABLE IF NOT EXISTS `biodata` (
 --
 
 INSERT INTO `biodata` (`nim`, `nama`, `alamat`) VALUES
-('14.111.135', 'Ipa Rupaedah', 'Majalaya, Kab Bandung');
+('14.111.154', 'Ratih Nengsih', 'soreang, Kab Bandung');
 
 -- --------------------------------------------------------
 
@@ -57,7 +57,7 @@ CREATE TABLE IF NOT EXISTS `user` (
 --
 
 INSERT INTO `user` (`id_user`, `nama`, `username`, `password`) VALUES
-(1, 'faizal', 'faizal', '4df206fc923c16b5fb02691f95be0161ff5114eb');
+(1, 'Ratih', 'Ratih','RatihNengsih','1234');
 
 --
 -- Indexes for dumped tables
